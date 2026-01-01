@@ -59,4 +59,4 @@ To work on the documentation locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/skaptaflow-docs.git
+   git clone https://github.com/skapta-Softwares/SkaptaFlow.git
